@@ -24,7 +24,7 @@ const ModalExample = (props) => {
             </div>
             <div className="mp-4">
                 <Button id="archive" color="danger" onClick={toggle}>Archive</Button>
-                <Modal  fade={true} centered={true} isOpen={modal} toggle={toggle} backdrop="static">
+                <Modal  fade={false} centered={true} isOpen={modal} toggle={toggle} backdrop="static">
                     
                         <ModalHeader toggle={toggle}>Duplicate Records - For Archival</ModalHeader>
                         <Form onSubmit={handleArchivalSubmit}>
