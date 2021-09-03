@@ -1,0 +1,19 @@
+[
+    {   "title":"Students Performance",
+        "labels":
+            [
+                "English",
+                "II Language",
+                "Maths",
+                "Science",
+                "Social Science"
+            ],
+        "label":"Marks of Students",
+        "data":[12, 19, 3, 5, 2, 3],
+        "xaxis":"<-----------Subjects------------>",
+        "yaxis":"Marks"
+
+    }
+     
+]
+

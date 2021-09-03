@@ -1,0 +1,1 @@
+npm install --save react-chartjs-2 chart.js ^3.0.0
